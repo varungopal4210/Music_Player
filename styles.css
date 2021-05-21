@@ -189,3 +189,16 @@ margin-top: 40px;
 padding: 20px;
 /*transform: rotate(-180deg);*/
 }
+@media(max-width:750px){
+/*.Outer_Frame{
+    display: flex;
+    flex-wrap: wrap;
+}
+.B{
+    flex-direction: column;
+}*/
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4cca4;
+}
